@@ -31,3 +31,5 @@ haha = {
     False:"Это ложь"
 }
 print(haha[False])
+
+# привет
